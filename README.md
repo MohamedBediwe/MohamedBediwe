@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/mohamed-bediwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed-bediwe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-bediwe-518596180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bediwe-518596180" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/15388469/mohamed-bediwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15388469/mohamed-bediwe" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15388469/mohamed-bediwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15388469/mohamed-bediwe" height="30" width="40" /></a>
 <a href="https://fb.com/mohammed.bediwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed.bediwe" height="30" width="40" /></a>
 </p>
 
