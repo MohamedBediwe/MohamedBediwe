@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Redux, GraphQL, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://mohamedbediwe.github.io/Portfolio/](https://mohamedbediwe.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://mohamedbediwe.github.io/Portfolio/](https://mohamed-bediwe.firebaseapp.com/)
 
 - 💬 Ask me about **HTML, CSS, Js, Bootstrap**
 
