@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbediwe&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbediwe" /> </p>
 
-- 🌱 I’m currently learning **React.js, Redux, GraphQL, TypeScript**
+- 🌱 I’m currently learning **Laravel, Alpine.js, Node.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://mohamed-bediwe.web.app/](https://mohamed-bediwe.firebaseapp.com/)
 
